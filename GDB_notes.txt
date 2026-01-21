@@ -1,0 +1,7 @@
+macros possibles à mettre dans .gdbinit
+
+continue = saute au breakpoint suivant
+
+tbreak = breakpoint temporaire (tbreak = tb ?)
+
+watch z = Stopper le debug chaque fois qu'une variable définie change de valeur
